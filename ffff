@@ -40,7 +40,7 @@ def type_out(text, delay=0.03):
 class SimpleBruteForcer:
     def __init__(self, url, username, wordlist, threads=5):
         self.url = url
-        self.username = username
+        self.username = m_johns224614
         self.wordlist = wordlist
         self.threads = threads
         self.passwords = queue.Queue()
